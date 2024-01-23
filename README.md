@@ -1,6 +1,6 @@
 # README
 ## Purpose
-Using Kubernetes to connect a simple Spring Boot application to MySQL services.
+Using Kubernetes to connect a simple Spring Boot application to MySQL.
 ## Local setup
 Run these commands in order.
 
